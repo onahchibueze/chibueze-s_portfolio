@@ -19,8 +19,8 @@ const Projects = () => {
       description:
         "A modern personal portfolio showcasing skills, projects, and contact form integration using EmailJS.",
       image: portfolio,
-      liveLink: "#",
-      githubLink: "#",
+      liveLink: "https://chibueze-s-portfolio.vercel.app/",
+      githubLink: "https://github.com/onahchibueze/chibueze-s_portfolio.git",
     },
     {
       title: "E-Commerce Platform",

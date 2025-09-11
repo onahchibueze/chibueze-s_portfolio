@@ -16,7 +16,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-6 sm:gap-10 lg:gap-16 bg-brand-secondary p-6 sm:p-8 rounded-xl">
         {/* Left Column: Text */}
         <div
-          className="md:w-2/3 text-center md:text-left sm:text-[0.9rem] md:text-base text-base "
+          className="md:w-2/3 text-center text-sm sm:text-base lg:text-lg md:text-md leading-relaxed "
           data-aos="fade-right"
           data-aos-delay="200"
         >

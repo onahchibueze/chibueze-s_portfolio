@@ -51,9 +51,13 @@ const NavBar = () => {
           >
             Contact Me
           </Link>
-          <button className="px-4 py-2 border text-brand-backgroundStart bg-brand-secondary rounded hover:bg-brand-secondaryHover hover:text-white transition-all duration-300">
+          <a
+            href="/resume.pdf"
+            download="Chibueze.dev_Resume.pdf"
+            className="px-4 py-2 border text-brand-backgroundStart bg-brand-secondary rounded hover:bg-brand-secondaryHover hover:text-white transition-all duration-300"
+          >
             Download Resume
-          </button>
+          </a>
         </div>
 
         {/* Mobile Hamburger */}

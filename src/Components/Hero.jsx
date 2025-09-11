@@ -22,7 +22,7 @@ const Hero = () => {
           Experience
         </p>
 
-        <p className="my-6 sm:my-8 text-sm sm:text-base lg:text-md md:text-sm text-brand-secondary leading-relaxed">
+        <p className="my-6 sm:my-8 text-sm sm:text-base lg:text-lg md:text-md text-brand-secondary leading-relaxed">
           I specialize in building modern, responsive, and high-performance web
           applications. I love turning ideas into scalable digital solutions
           that solve real-world problems. Skilled in React, Node.js, MongoDB,
