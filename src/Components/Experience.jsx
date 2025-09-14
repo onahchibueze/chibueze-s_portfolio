@@ -2,7 +2,7 @@ import React from "react";
 
 const Experience = () => {
   const stats = [
-    { label: "Years of Experience", value: "2+" },
+    { label: "Years of Experience", value: "1.5+" },
     { label: "Completed Projects", value: "3+" },
     { label: "Happy Clients", value: "2+" },
     { label: "Technologies Mastered", value: "8+" },
@@ -13,7 +13,7 @@ const Experience = () => {
     { skill: "Node.js", years: "1.5+ years" },
     { skill: "MongoDB", years: "1+ years" },
     { skill: "Tailwind CSS", years: "2+ years" },
-    { skill: "JavaScript", years: "2+ years" },
+    { skill: "JavaScript", years: "3+ years" },
     { skill: "Git & GitHub", years: "2+ years" },
   ];
 

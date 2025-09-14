@@ -25,7 +25,7 @@ const About = () => {
             <span className="font-bold text-brand-orange">Chibueze Onah</span>,
             a passionate Full-Stack Developer with{" "}
             <span className="font-bold text-brand-orange">
-              2+ years of experience
+              1.5+ years of experience
             </span>{" "}
             building modern, responsive, and high-performance web applications.
           </p>

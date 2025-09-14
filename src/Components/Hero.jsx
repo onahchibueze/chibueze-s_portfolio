@@ -18,7 +18,7 @@ const Hero = () => {
         </h2>
 
         <p className="text-base sm:text-lg text-brand-secondary mt-2">
-          <span className="font-bold text-brand-orange">2+ Years</span> of
+          <span className="font-bold text-brand-orange">1.5+ Years</span> of
           Experience
         </p>
 
